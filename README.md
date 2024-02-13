@@ -1,2 +1,1 @@
-ToDoList App Uygulaması yapılmıştır
-Projede React js kullanılmıştır.
+ToDoList App Uygulaması yapılmıştır.Projede React js kullanılmıştır.
